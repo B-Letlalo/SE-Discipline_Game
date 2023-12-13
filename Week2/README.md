@@ -1,10 +1,10 @@
-__Task 3: Compare and contrast the switch statement with nested if-else statements,highlighting scenarios where each is more suitable__
+**Task 3: Compare and contrast the switch statement with nested if-else statements,highlighting scenarios where each is more suitable**
 
-__What are the key differences of switch statements and if-else statements__
+**What are the key differences of switch statements and if-else statements**
 Both these statements are control flow structures that evaluate conditions and make decisions based on them.
 The main difference is the syntax
 
-__Compare and contrast the statements.__
+**Compare and contrast the statements.**
 A switch statement is more suitable when you have a single variable that needs 
 to be evaluated through multiple conditions.
 An if-else statement is more suitable when each condition evaluated and met has
